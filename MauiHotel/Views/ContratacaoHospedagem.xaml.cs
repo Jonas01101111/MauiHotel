@@ -6,4 +6,9 @@ public partial class ContratacaoHospedagem : ContentPage
 	{
 		InitializeComponent();
 	}
+
+    private void dtpck_checkin_DateSelected(object sender, DateChangedEventArgs e)
+    {
+
+    }
 }
