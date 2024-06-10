@@ -83,14 +83,12 @@
                         </HorizontalStackLayout>
                     </VerticalStackLayout>
                 </Frame>
-                
+
+                <Button Text="Avançar"
+                            HorizontalOptions="Center"
+                            Clicked="Button_Clicked"/>
             </VerticalStackLayout>
         </Frame>
-
-
-
-
-
 
     </VerticalStackLayout>
 </ContentPage>
